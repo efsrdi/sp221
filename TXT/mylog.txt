@@ -1,3 +1,11 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00 100 L02 Zoom meetings related
-ZCZC W00 13 L03 Github related
+ZCZC W00 13 L03 GitHub related
 ZCZC W00 19 L05 Quiz related
+ZCZC W00 44 L15 Assignment #05: Reading Assignment
+ZCZC W00 225 L16 Assignment #06: Setup a VirtualBox Debian Guest
+ZCZC W00 14 L05 GitHub Pages related
+ZCZC W00 17 L17 Assignment #07: GnuPG
