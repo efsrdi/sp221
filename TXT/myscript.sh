@@ -38,8 +38,16 @@ sha256sum $FILES > $SHA
 echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
-echo "gpg -o $SHA.asc -a -sb $SHA"
-gpg -o $SHA.asc -a -sb $SHA
+echo "gpg --output $SHA.asc --armor --sign --detach-sign $SHA"
+gpg --output $SHA.asc --armor --sign --detach-sign $SHA
 
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
+
+echo ""
+echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
+echo "==== ==== ==== ATTN: is this WEEK $WEEK ?? ==== ==== ==== ===="
+echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
+echo ""
+
+exit 0
