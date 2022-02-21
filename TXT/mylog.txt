@@ -9,3 +9,6 @@ ZCZC W00 44 L15 Assignment #05: Reading Assignment
 ZCZC W00 225 L16 Assignment #06: Setup a VirtualBox Debian Guest
 ZCZC W00 14 L05 GitHub Pages related
 ZCZC W00 17 L17 Assignment #07: GnuPG
+ZCZC W01 34 L11 Assignment #01: Preparation
+ZCZC W01 153 L12 Assignment #02: Linux Kernel
+ZCZC W01 124 L13 Assignment #03: The Linux Programming Interface
