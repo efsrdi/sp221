@@ -12,3 +12,6 @@ ZCZC W00 17 L17 Assignment #07: GnuPG
 ZCZC W01 34 L11 Assignment #01: Preparation
 ZCZC W01 153 L12 Assignment #02: Linux Kernel
 ZCZC W01 124 L13 Assignment #03: The Linux Programming Interface
+ZCZC W02 20 L11 Assignment #01: Script Download
+ZCZC W02 78 L12 Assignment #02: LFS 11.0 Chapter 01-04
+ZCZC W02 360 L13 Assignment #03: LFS 11.0 Chapter 05-07 
