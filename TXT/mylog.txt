@@ -15,3 +15,7 @@ ZCZC W01 124 L13 Assignment #03: The Linux Programming Interface
 ZCZC W02 20 L11 Assignment #01: Script Download
 ZCZC W02 78 L12 Assignment #02: LFS 11.0 Chapter 01-04
 ZCZC W02 360 L13 Assignment #03: LFS 11.0 Chapter 05-07 
+ZCZC W03 90 L11 Assignment #01: Reading + update kernel
+ZCZC W03 47 L12 Assignment #02: FUSE
+ZCZC W03 10 L13 Assignment #03: Script Download
+ZCZC W03 100 L02 ZOOM meeting related
