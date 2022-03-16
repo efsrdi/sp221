@@ -19,3 +19,6 @@ ZCZC W03 90 L11 Assignment #01: Reading + update kernel
 ZCZC W03 47 L12 Assignment #02: FUSE
 ZCZC W03 10 L13 Assignment #03: Script Download
 ZCZC W03 100 L02 ZOOM meeting related
+ZCZC W04 37 L11 Assignment #01: Reading
+ZCZC W04 15 L12 Assignment #02: Script Download
+ZCZC W04 113 L13 Assignment #03: Programming
