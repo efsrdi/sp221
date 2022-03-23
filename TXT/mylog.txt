@@ -22,3 +22,6 @@ ZCZC W03 100 L02 ZOOM meeting related
 ZCZC W04 37 L11 Assignment #01: Reading
 ZCZC W04 15 L12 Assignment #02: Script Download
 ZCZC W04 113 L13 Assignment #03: Programming
+ZCZC W05 65 L11 Assignment #01: Readings
+ZCZC W05 18 L12 Assignment #02: Script Download
+ZCZC W05 134 L13 Assignment #03: FUSE Project Proposal
