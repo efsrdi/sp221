@@ -25,3 +25,6 @@ ZCZC W04 113 L13 Assignment #03: Programming
 ZCZC W05 65 L11 Assignment #01: Readings
 ZCZC W05 18 L12 Assignment #02: Script Download
 ZCZC W05 134 L13 Assignment #03: FUSE Project Proposal
+ZCZC W06 126 L11 Assignment #01: Readings
+ZCZC W06 13 L12 Assignment #02: Script Download
+ZCZC W06 148 L13 Assignment #03: File Systems and Devices
