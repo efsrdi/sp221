@@ -29,3 +29,5 @@ ZCZC W06 126 L11 Assignment #01: Readings
 ZCZC W06 13 L12 Assignment #02: Script Download
 ZCZC W06 148 L13 Assignment #03: File Systems and Devices
 ZCZC W07 156 L11 Assignment #01: Reading and update kernel
+ZCZC W07 10 L12 Assignment #02: Script Download
+ZCZC W07 110 L13 Assignment #03: Kernel Modules
