@@ -34,3 +34,6 @@ ZCZC W07 110 L13 Assignment #03: Kernel Modules
 ZCZC W08 100 L11 Assignment #01: Reading
 ZCZC W08 13 L12 Assignment #02: Script Download
 ZCZC W08 134 L13 Assignment #03: Modules
+ZCZC W09 237 L11 Assignment #01: Reading and Updating kernel
+ZCZC W09 15 L12 Assignment #02: Script Download
+ZCZC W09 121 L13 Assignment #03: Modules
